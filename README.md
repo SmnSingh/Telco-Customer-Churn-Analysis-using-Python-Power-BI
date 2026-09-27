@@ -106,7 +106,7 @@ Exploratory Data Analysis (EDA)
 
 Python for Data Analytics
 
-Pandas and NumPy
+Pandas, Matplotlib and Seaborn
 
 Power BI Dashboard Development
 
